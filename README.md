@@ -9,8 +9,8 @@ I have a passion for creating efficient, scalable, and user-friendly software. M
 ### Skills
 
 - **Languages**: JavaScript, Python, HTML, CSS, SQL
-- **Frameworks/Libraries**: React, Node.js, Express, Django
-- **Tools**: Git, Docker, AWS, Jenkins, Kubernetes
+- **Frameworks/Libraries**: React, Nextjs, Node.js, Express, Django
+- **Tools**: Git, Docker, AWS, Jenkins, Kubernetes, Dagster
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Other**: RESTful APIs, GraphQL, CI/CD, Agile Methodologies
 
